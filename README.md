@@ -14,12 +14,9 @@
 <a href="https://www.facebook.com/yuviyusuf">
   <img align="left" alt="Muhammed Yusuf | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
   
 ![](https://visitor-badge.glitch.me/badge?page_id=myusufcse.myusufcse)
-
 <br />
-
 <h4 align="right">:Languages and Tools</h4>
  <img align="right" alt="DevOpsTools" src="https://github.com/myusufcse/myusufcse/blob/main/DevOpsTools.jpeg" width="500" height="304" />
  
