@@ -23,7 +23,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [PythonBeginners Study Material](https://github.com/myusufcse/pythonBeginners.git) Application :wink:;
+- 👨🏽‍💻 I’m currently working on [PythonBeginners](https://github.com/myusufcse/pythonBeginners.git) Study Material :wink:;
 - 🌱 I’m currently learning Machine Learning; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Yusuf](https://www.linkedin.com/in/muhammedyusuf/);
