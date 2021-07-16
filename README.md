@@ -23,8 +23,8 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [DashBoardPro](https://github.com/myusufcse/DashBoardPro) Application :wink:;
-- 🌱 I’m currently learning [Google Cloud Platform](https://google.qwiklabs.com/public_profiles/221d9c5b-a7e2-4156-8952-d97bbb6f5227); 
+- 👨🏽‍💻 I’m currently working on [PythonBeginners Study Material](https://github.com/myusufcse/pythonBeginners.git) Application :wink:;
+- 🌱 I’m currently learning Machine Learning; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Yusuf](https://www.linkedin.com/in/muhammedyusuf/);
 
