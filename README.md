@@ -27,7 +27,32 @@
 - 🌱 I’m currently learning Machine Learning; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Yusuf](https://www.linkedin.com/in/muhammedyusuf/);
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Github Activity ✔:
+
+<a href="https://github.com/myusufcse">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusufcse&theme=tokyonight" />
+  </a>
 
 
-<br />
-Welcome to my space in GitHub 🎉
+<a href="https://github.com/myusufcse">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=myusufcse&show_icons=true&theme=tokyonight&line_height=27" alt="myusufcse's github stats"/>
+</a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<h4 align="center">Welcome to my space in GitHub 🎉 </h4>
