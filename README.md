@@ -16,18 +16,16 @@
 </a>
   
 ![](https://visitor-badge.glitch.me/badge?page_id=myusufcse.myusufcse)
-<br />
 <h4 align="right">:Languages and Tools</h4>
  <img align="right" alt="DevOpsTools" src="https://github.com/myusufcse/myusufcse/blob/main/DevOpsTools.jpeg" width="500" height="304" />
  
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [PythonBeginners](https://github.com/myusufcse/pythonBeginners.git) Study Material :wink:;
-- 🌱 I’m currently learning Machine Learning; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Yusuf](https://www.linkedin.com/in/muhammedyusuf/);
-<br>
+- 👨🏽‍💻 I’m currently working on Kubernetes CKA Certification :wink:
+- 🌱 I’m currently learning AWS Cloud (solutions architect associate level) 
+- 💬 Ask me about Cloud, DevOps & Automation, I am happy to help
+- 📫 How to reach me: [@Yusuf](https://www.linkedin.com/in/muhammedyusuf/)
 <br>
 <br>
 <br>
